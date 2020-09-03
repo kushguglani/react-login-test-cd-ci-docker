@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login Module matches snapshot 1`] = `
+<div>
+  <fieldset>
+    <legend>
+      Login Form
+    </legend>
+    User Name : 
+    <input
+      name="userName"
+      placeholder="User Name"
+      type="text"
+    />
+    <br />
+    Password : 
+    <input
+      name="password"
+      placeholder="Password"
+      type="password"
+    />
+    <br />
+    <br />
+    <button>
+      Login
+    </button>
+  </fieldset>
+</div>
+`;
